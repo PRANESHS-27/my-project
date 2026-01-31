@@ -1,0 +1,1 @@
+This project will grow as I practice Git commands.
