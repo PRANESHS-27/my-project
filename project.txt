@@ -1,4 +1,3 @@
-This project will grow as I practice Git commands.
 name :PRANESH
 roll no :7376241cs325
 task 2: git hub
